@@ -1,0 +1,7 @@
+D:\HazelSoft_Assignment\Sieve_of_Eratosthenes\Sieve_of_Eratosthenes\bin\Debug\Sieve_of_Eratosthenes.exe.config
+D:\HazelSoft_Assignment\Sieve_of_Eratosthenes\Sieve_of_Eratosthenes\bin\Debug\Sieve_of_Eratosthenes.exe
+D:\HazelSoft_Assignment\Sieve_of_Eratosthenes\Sieve_of_Eratosthenes\bin\Debug\Sieve_of_Eratosthenes.pdb
+D:\HazelSoft_Assignment\Sieve_of_Eratosthenes\Sieve_of_Eratosthenes\obj\Debug\Sieve_of_Eratosthenes.csprojAssemblyReference.cache
+D:\HazelSoft_Assignment\Sieve_of_Eratosthenes\Sieve_of_Eratosthenes\obj\Debug\Sieve_of_Eratosthenes.csproj.CoreCompileInputs.cache
+D:\HazelSoft_Assignment\Sieve_of_Eratosthenes\Sieve_of_Eratosthenes\obj\Debug\Sieve_of_Eratosthenes.exe
+D:\HazelSoft_Assignment\Sieve_of_Eratosthenes\Sieve_of_Eratosthenes\obj\Debug\Sieve_of_Eratosthenes.pdb

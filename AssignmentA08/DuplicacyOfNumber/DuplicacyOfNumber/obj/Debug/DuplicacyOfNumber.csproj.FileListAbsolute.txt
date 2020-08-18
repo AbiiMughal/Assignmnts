@@ -1,0 +1,14 @@
+D:\HazelSoft_Assignment\DuplicacyOfNumber\DuplicacyOfNumber\bin\Debug\DuplicacyOfNumber.exe.config
+D:\HazelSoft_Assignment\DuplicacyOfNumber\DuplicacyOfNumber\bin\Debug\DuplicacyOfNumber.exe
+D:\HazelSoft_Assignment\DuplicacyOfNumber\DuplicacyOfNumber\bin\Debug\DuplicacyOfNumber.pdb
+D:\HazelSoft_Assignment\DuplicacyOfNumber\DuplicacyOfNumber\obj\Debug\DuplicacyOfNumber.csprojAssemblyReference.cache
+D:\HazelSoft_Assignment\DuplicacyOfNumber\DuplicacyOfNumber\obj\Debug\DuplicacyOfNumber.csproj.CoreCompileInputs.cache
+D:\HazelSoft_Assignment\DuplicacyOfNumber\DuplicacyOfNumber\obj\Debug\DuplicacyOfNumber.exe
+D:\HazelSoft_Assignment\DuplicacyOfNumber\DuplicacyOfNumber\obj\Debug\DuplicacyOfNumber.pdb
+D:\HazelSoft_Assignment\AssignmentA08\DuplicacyOfNumber\DuplicacyOfNumber\bin\Debug\DuplicacyOfNumber.exe.config
+D:\HazelSoft_Assignment\AssignmentA08\DuplicacyOfNumber\DuplicacyOfNumber\bin\Debug\DuplicacyOfNumber.exe
+D:\HazelSoft_Assignment\AssignmentA08\DuplicacyOfNumber\DuplicacyOfNumber\bin\Debug\DuplicacyOfNumber.pdb
+D:\HazelSoft_Assignment\AssignmentA08\DuplicacyOfNumber\DuplicacyOfNumber\obj\Debug\DuplicacyOfNumber.csprojAssemblyReference.cache
+D:\HazelSoft_Assignment\AssignmentA08\DuplicacyOfNumber\DuplicacyOfNumber\obj\Debug\DuplicacyOfNumber.csproj.CoreCompileInputs.cache
+D:\HazelSoft_Assignment\AssignmentA08\DuplicacyOfNumber\DuplicacyOfNumber\obj\Debug\DuplicacyOfNumber.exe
+D:\HazelSoft_Assignment\AssignmentA08\DuplicacyOfNumber\DuplicacyOfNumber\obj\Debug\DuplicacyOfNumber.pdb

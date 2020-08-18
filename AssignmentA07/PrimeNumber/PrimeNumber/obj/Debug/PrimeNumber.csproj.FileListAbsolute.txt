@@ -1,0 +1,7 @@
+D:\HazelSoft_Assignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\HazelSoft_Assignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\HazelSoft_Assignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\HazelSoft_Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+D:\HazelSoft_Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\HazelSoft_Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\HazelSoft_Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
